@@ -1,0 +1,88 @@
+<input type="text" id="search" placeholder="Search stock (e.g. RELIANCE.NS)">
+<button onclick="searchStock()">Search</button>
+
+<table border="1">
+<thead>
+<tr>
+    <th>Symbol</th>
+    <th>Price</th>
+    <th>1H</th>
+    <th>4H</th>
+    <th>8H</th>
+    <th>24H</th>
+    <th>1W</th>
+    <th>Volume</th>
+    <th>Chart</th>
+</tr>
+</thead>
+
+<tbody id="marketTable"></tbody>
+</table>
+
+<script>
+async function loadMarket(symbol=null) {
+    let url = "http://127.0.0.1:8000/stocks";
+    if(symbol) url += `?symbol=${symbol}`;
+
+    let res = await fetch(url);
+    let data = await res.json();
+
+    let table = document.getElementById("marketTable");
+    table.innerHTML = "";
+
+    if (!data || data.length === 0) {
+        table.innerHTML = "<tr><td colspan='9'>No data</td></tr>";
+        return;
+    }
+
+    data.forEach(stock => {
+        let row = `
+        <tr>
+            <td>${stock.symbol}</td>
+            <td>₹${stock.price}</td>
+
+            <td style="color:${stock.change_1h >= 0 ? 'green' : 'red'}">
+                ${stock.change_1h}%
+            </td>
+
+            <td style="color:${stock.change_4h >= 0 ? 'green' : 'red'}">
+                ${stock.change_4h}%
+            </td>
+
+            <td style="color:${stock.change_8h >= 0 ? 'green' : 'red'}">
+                ${stock.change_8h}%
+            </td>
+
+            <td style="color:${stock.change_24h >= 0 ? 'green' : 'red'}">
+                ${stock.change_24h}%
+            </td>
+
+            <td style="color:${stock.change_1w >= 0 ? 'green' : 'red'}">
+                ${stock.change_1w}%
+            </td>
+
+            <td>${stock.volume}</td>
+
+            <td>
+                <button onclick="openChart('${stock.symbol}')">📈</button>
+            </td>
+        </tr>`;
+        table.innerHTML += row;
+    });
+}
+
+function searchStock() {
+    let sym = document.getElementById("search").value.toUpperCase();
+    loadMarket(sym);
+}
+
+function openChart(symbol) {
+    window.location.href = `technical.html?symbol=${symbol}`;
+}
+
+// Auto refresh
+setInterval(() => loadMarket(), 5000);
+
+// First load
+loadMarket();
+</script>

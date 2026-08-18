@@ -1,0 +1,65 @@
+{
+    "cash": 25899.812240600586,
+    "positions": {
+        "INFY.NS": {
+            "quantity": 22,
+            "avg_price": 1169.199951171875
+        },
+        "RELIANCE.NS": {
+            "quantity": 10,
+            "avg_price": 1310.0
+        }
+    },
+    "algo_positions": {
+        "AXISBANK.NS": {
+            "quantity": 3,
+            "entry_price": 1217.4000244140625,
+            "target": 1229.57,
+            "stop_loss": 1211.31,
+            "signal_strength": 0.05398751577233439
+        },
+        "NVDA": {
+            "quantity": 7,
+            "entry_price": 226.49000549316406,
+            "target": 228.75,
+            "stop_loss": 225.36,
+            "signal_strength": 0.10843694544214208
+        },
+        "TSLA": {
+            "quantity": 4,
+            "entry_price": 342.1709899902344,
+            "target": 345.59,
+            "stop_loss": 340.46,
+            "signal_strength": 0.0814985523670164
+        },
+        "XOM": {
+            "quantity": 9,
+            "entry_price": 160.22500610351562,
+            "target": 161.83,
+            "stop_loss": 159.42,
+            "signal_strength": 0.01517554251623318
+        },
+        "AMGN": {
+            "quantity": 3,
+            "entry_price": 416.80999755859375,
+            "target": 420.98,
+            "stop_loss": 414.73,
+            "signal_strength": 0.16275508117922372
+        },
+        "GS": {
+            "quantity": 1,
+            "entry_price": 1046.0,
+            "target": 1056.46,
+            "stop_loss": 1040.77,
+            "signal_strength": 0.051450843535726716
+        },
+        "CVX": {
+            "quantity": 6,
+            "entry_price": 200.97000122070312,
+            "target": 202.98,
+            "stop_loss": 199.97,
+            "signal_strength": 0.05421658075015035
+        }
+    },
+    "realized_pnl": -595.2001953125
+}

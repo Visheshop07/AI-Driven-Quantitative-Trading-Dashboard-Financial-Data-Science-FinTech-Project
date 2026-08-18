@@ -1,0 +1,318 @@
+{
+  "predictions": {
+    "AAPL": {
+      "prediction": 0.5,
+      "confidence": 0.5,
+      "raw_response": "### AAPL Next-Day Price Movement Prediction  \n\n1. **Prediction**: +1.2% to +2.5% (target range: ~$239.35 - $242.45)  \n2. **Confidence Level**: 70%  \n3. **Reasoning**:  \n\n#### Key Supporting Factors:  \n- **Oversold RSI (27.31)**: The RSI is deeply oversold (<30), historically signaling a near-term bounce. AAPL has rebounded 1.5–3% within 1–3 days after similar RSI levels in the past 6 months.  \n- **Positive Divergence**: Today’s +1.97% gain on lower-than-average volume suggests short-term capitulation may be ending, with buyers stepping in.  \n- **MACD Convergence**: While MACD remains negative (-1.5712), its histogram shows slowing downward momentum, often preceding reversals.  \n- **Proximity to MA50 ($237.71)**: The current price ($236.58) is just below the 50-day MA, a key support/resistance level. A break above this could trigger algorithmic buying.  \n\n#### Risks/Counterpoints:  \n- **Downtrend Persistence**: The 20-day MA ($246.01) is still declining, and the stock is down -4.13% over 20 days, indicating broader bearish pressure.  \n- **Below-Avg Volume**: Today’s volume was 14% below average, raising questions about sustainability of the rebound.  \n\n#### Conclusion:  \nExpect a continuation of today’s rebound (+1.2–2.5%) due to oversold conditions and technical reversals, but monitor volume for confirmation. A failure to hold gains above the MA50 could invalidate this outlook.  \n\n---  \n*Note: This prediction assumes no major market-moving news overnight. Confidence drops to 50% if macro volatility (e.g., Fed comments) escalates.*",
+      "symbol": "AAPL",
+      "timestamp": "2026-03-14T11:42:22.046798"
+    },
+    "MSFT": {
+      "prediction": 0.015,
+      "confidence": 0.65,
+      "raw_response": "### Prediction for MSFT Next Trading Day (2025-01-16)\n\n1. **Predicted Price Movement**: **+0.75% to +1.25%** (target range: ~$425.40 to $427.50)  \n2. **Confidence Level**: **65%**  \n3. **Reasoning**:  \n\n#### Supporting Factors:  \n- **Recent Momentum**: Today's price gain (+2.56%) on above-average volume suggests bullish momentum, potentially reversing the 20-day downtrend (-4.69%).  \n- **Technical Indicators**:  \n  - **RSI (42.71)**: Neutral but rising from oversold territory, indicating room for upward movement.  \n  - **MACD (-3.4892)**: Still negative but may be nearing a bullish crossover if momentum continues.  \n  - **Price vs. MA 50 ($423.69)**: Current price ($422.22) is just below the 50-day MA, a break above could trigger further buying.  \n- **Volume**: Today’s volume (19.6M) is close to the average (20M), supporting the price move’s validity.  \n\n#### Risks/Counterpoints:  \n- **20-Day Trend**: The broader trend remains negative (-4.69%), and the 20-day MA ($425.95) could act as resistance.  \n- **Volatility (19.67%)**: High volatility may lead to sharp reversals.  \n\n#### Conclusion:  \nThe combination of today’s strong performance, neutral RSI, and proximity to key moving averages suggests a likely continuation of the rebound, though resistance near $426-$427 may cap gains. Confidence is tempered by the broader downtrend and volatility.  \n\n**Final Note**: Monitor pre-market volume and macroeconomic catalysts (e.g., earnings whispers, Fed comments) for confirmation.",
+      "symbol": "MSFT",
+      "timestamp": "2026-03-14T11:42:37.882432"
+    },
+    "GOOGL": {
+      "prediction": 0.015,
+      "confidence": 0.65,
+      "raw_response": "### Prediction for GOOGL Next Trading Day (2025-01-16)  \n\n1. **Predicted Price Movement**: +0.8% to +1.5% (target range: ~$196.20–$197.57)  \n2. **Confidence Level**: 65%  \n3. **Reasoning**:  \n\n   - **Technical Indicators**:  \n     - **RSI (51.59)**: Neutral, no overbought/oversold signal.  \n     - **MACD (3.0386)**: Positive momentum, though not strongly diverging.  \n     - **Price vs. MAs**: Current price ($194.65) is above both 20-day MA ($191.90) and 50-day MA ($181.65), indicating bullish support.  \n   - **Volume & Trend**:  \n     - Today’s volume (21.8M) was below average (28.4M), but the +3.11% price jump suggests strong buying interest.  \n     - 20-day trend (+3.02%) is positive, and the 5-day trend (+0.03%) shows recent consolidation breaking upward.  \n   - **Volatility (32.73%)**: High volatility supports potential for continued movement, likely upward given the breakout above recent resistance (~$194).  \n   - **Recent Action**: After a dip to $188.79 (2025-01-14), today’s rally reclaimed the 20-day MA, signaling potential continuation.  \n\n**Key Risk**: If volume doesn’t confirm tomorrow, the move could stall. Watch for resistance near $196 (prior high on 2025-01-06).  \n\n**Conclusion**: Moderately confident in a follow-through rally, but high volatility warrants caution.",
+      "symbol": "GOOGL",
+      "timestamp": "2026-03-14T11:42:58.333371"
+    },
+    "TSLA": {
+      "prediction": 0.012,
+      "confidence": 0.65,
+      "raw_response": "### TSLA Next Trading Day Prediction  \n\n1. **Prediction for Next Day's Price Movement**: **+1.2% to +2.5%** (target range: ~$433–$439)  \n2. **Confidence Level**: **65%**  \n3. **Reasoning**:  \n\n#### Key Factors Supporting a Bullish Outlook:  \n- **Strong Momentum**: TSLA surged **8.04%** on the latest trading day, breaking above the 20-day MA ($422.64) and nearing the 50-day MA ($374.25), suggesting bullish momentum.  \n- **RSI Neutral but Rising**: The RSI (49.44) is mid-range, leaving room for further upside before overbought conditions (RSI > 70).  \n- **MACD Bullish Signal**: The MACD (6.7038) is positive and likely widening, indicating strengthening upward momentum.  \n- **Volume Confirmation**: While volume (81.4M) was slightly below average (87.9M), the price spike on higher-than-recent volume (e.g., vs. 62M on 2025-01-10) supports validity.  \n- **Volatility**: High volatility (68.23%) suggests large swings, but the 5-day trend (+8.59%) favors continuation.  \n\n#### Caveats Limiting Confidence:  \n- **Resistance Levels**: The stock may face resistance near the 50-day MA or psychological levels (e.g., $440).  \n- **Profit-Taking Risk**: After a sharp 1-day gain, short-term traders may lock in profits, causing a pullback.  \n\n#### Conclusion:  \nThe technical setup leans bullish, but the high volatility and potential resistance justify moderate confidence (65%). Expect a **moderate rise** (~1.2–2.5%) with possible intraday volatility.",
+      "symbol": "TSLA",
+      "timestamp": "2026-03-14T11:43:09.524767"
+    },
+    "NVDA": {
+      "prediction": 0.0,
+      "confidence": 0.1,
+      "raw_response": "### NVDA Next-Day Price Prediction  \n\n1. **Predicted Price Movement**: +1.2% to $137.83  \n2. **Confidence Level**: 65%  \n3. **Reasoning**:  \n\n**Technical Factors**:  \n- **RSI (46.17)**: Neutral (neither overbought nor oversold), suggesting room for upward momentum.  \n- **MACD (-0.5619)**: Still negative but converging, hinting at potential bullish reversal.  \n- **Price vs. MAs**: Current price ($136.20) is below the 20-day MA ($136.70) but showing recovery from recent lows. A breakout above the 20-day MA could trigger short-term buying.  \n- **Volatility (40.95%)**: High volatility supports larger swings, but recent consolidation near $131–$136 suggests a base forming.  \n\n**Volume & Trend Analysis**:  \n- Today’s volume (185M) was below average (205M), indicating weaker selling pressure after the +3.4% rebound.  \n- The 5-day trend (-2.78%) reversed today, and the stock reclaimed the $135 support level. This could attract dip-buyers.  \n\n**Near-Term Resistance/Support**:  \n- Immediate resistance: $137.50 (prior swing high on 01-10).  \n- Support: $134.25 (12-31 low).  \n\n**Catalysts**:  \n- No major earnings/news expected, but NVDA often moves with semiconductor sector sentiment. Recent rebound suggests bear exhaustion.  \n\n**Risks**:  \n- MACD remains negative, and the 50-day MA ($139.58) is overhead. Failure to hold $136 could lead to retest of $134.  \n\n**Conclusion**: Moderately bullish bias (+1.2%) with 65% confidence, contingent on holding above $136 and sector stability. A break below $134 would invalidate the thesis.",
+      "symbol": "NVDA",
+      "timestamp": "2026-03-14T11:43:23.102459"
+    }
+  },
+  "model_info": {
+    "model": "deepseek/deepseek-chat-v3-0324",
+    "timestamp": "2026-03-14T11:43:24.110871",
+    "total_symbols": 5
+  },
+  "prompt_details": {
+    "AAPL": {
+      "system_prompt": "You are an expert quantitative analyst specializing in stock market analysis. Provide detailed, data-driven insights with clear reasoning.",
+      "user_prompt": "\nBased on the following market data for AAPL, provide a prediction for the next trading day's price movement.\n\n\nStock Symbol: AAPL\nCurrent Price: $236.58\nPrice Change (1d): 1.97%\nVolume: 39,832,000 (Avg: 46,268,010)\nPrice Trend (5d): -1.79%\nPrice Trend (20d): -4.13%\n\nTechnical Indicators:\n- RSI: 27.31\n- MACD: -1.5712\n- MA 20: $246.01\n- MA 50: $237.71\n- Volatility: 19.13%\n\nRecent Price History (last 10 days):\n  2024-12-31: $249.06 (Vol: 39,480,700)\n  2025-01-02: $242.53 (Vol: 55,740,700)\n  2025-01-03: $242.04 (Vol: 40,244,100)\n  2025-01-06: $243.67 (Vol: 45,045,600)\n  2025-01-07: $240.89 (Vol: 40,856,000)\n  2025-01-08: $241.38 (Vol: 37,628,900)\n  2025-01-10: $235.56 (Vol: 61,710,900)\n  2025-01-13: $233.13 (Vol: 49,630,700)\n  2025-01-14: $232.01 (Vol: 39,435,300)\n  2025-01-15: $236.58 (Vol: 39,832,000)\n\n\nPlease provide:\n1. Your prediction for the next day's price movement (as a percentage)\n2. Your confidence level in this prediction (as a percentage)\n3. Brief reasoning for your prediction\n\nFormat your response clearly and concisely.\n",
+      "timestamp": "2026-03-14T11:42:22.033692"
+    },
+    "MSFT": {
+      "system_prompt": "You are an expert quantitative analyst specializing in stock market analysis. Provide detailed, data-driven insights with clear reasoning.",
+      "user_prompt": "\nBased on the following market data for MSFT, provide a prediction for the next trading day's price movement.\n\n\nStock Symbol: MSFT\nCurrent Price: $422.22\nPrice Change (1d): 2.56%\nVolume: 19,637,800 (Avg: 20,053,623)\nPrice Trend (5d): 0.93%\nPrice Trend (20d): -4.69%\n\nTechnical Indicators:\n- RSI: 42.71\n- MACD: -3.4892\n- MA 20: $425.95\n- MA 50: $423.69\n- Volatility: 19.67%\n\nRecent Price History (last 10 days):\n  2024-12-31: $417.46 (Vol: 13,246,500)\n  2025-01-02: $414.57 (Vol: 16,896,500)\n  2025-01-03: $419.29 (Vol: 16,662,900)\n  2025-01-06: $423.75 (Vol: 20,573,600)\n  2025-01-07: $418.32 (Vol: 18,139,100)\n  2025-01-08: $420.49 (Vol: 15,054,600)\n  2025-01-10: $414.94 (Vol: 20,201,100)\n  2025-01-13: $413.19 (Vol: 17,604,800)\n  2025-01-14: $411.69 (Vol: 16,935,900)\n  2025-01-15: $422.22 (Vol: 19,637,800)\n\n\nPlease provide:\n1. Your prediction for the next day's price movement (as a percentage)\n2. Your confidence level in this prediction (as a percentage)\n3. Brief reasoning for your prediction\n\nFormat your response clearly and concisely.\n",
+      "timestamp": "2026-03-14T11:42:37.866304"
+    },
+    "GOOGL": {
+      "system_prompt": "You are an expert quantitative analyst specializing in stock market analysis. Provide detailed, data-driven insights with clear reasoning.",
+      "user_prompt": "\nBased on the following market data for GOOGL, provide a prediction for the next trading day's price movement.\n\n\nStock Symbol: GOOGL\nCurrent Price: $194.65\nPrice Change (1d): 3.11%\nVolume: 21,776,000 (Avg: 28,431,087)\nPrice Trend (5d): 0.03%\nPrice Trend (20d): 3.02%\n\nTechnical Indicators:\n- RSI: 51.59\n- MACD: 3.0386\n- MA 20: $191.90\n- MA 50: $181.65\n- Volatility: 32.73%\n\nRecent Price History (last 10 days):\n  2024-12-31: $188.43 (Vol: 17,466,900)\n  2025-01-02: $188.56 (Vol: 20,370,800)\n  2025-01-03: $190.91 (Vol: 18,596,200)\n  2025-01-06: $195.96 (Vol: 29,563,600)\n  2025-01-07: $194.59 (Vol: 26,487,200)\n  2025-01-08: $193.06 (Vol: 24,864,800)\n  2025-01-10: $191.16 (Vol: 26,665,200)\n  2025-01-13: $190.13 (Vol: 21,823,700)\n  2025-01-14: $188.79 (Vol: 17,174,900)\n  2025-01-15: $194.65 (Vol: 21,776,000)\n\n\nPlease provide:\n1. Your prediction for the next day's price movement (as a percentage)\n2. Your confidence level in this prediction (as a percentage)\n3. Brief reasoning for your prediction\n\nFormat your response clearly and concisely.\n",
+      "timestamp": "2026-03-14T11:42:58.333371"
+    },
+    "TSLA": {
+      "system_prompt": "You are an expert quantitative analyst specializing in stock market analysis. Provide detailed, data-driven insights with clear reasoning.",
+      "user_prompt": "\nBased on the following market data for TSLA, provide a prediction for the next trading day's price movement.\n\n\nStock Symbol: TSLA\nCurrent Price: $428.22\nPrice Change (1d): 8.04%\nVolume: 81,375,500 (Avg: 87,952,100)\nPrice Trend (5d): 8.59%\nPrice Trend (20d): -1.84%\n\nTechnical Indicators:\n- RSI: 49.44\n- MACD: 6.7038\n- MA 20: $422.64\n- MA 50: $374.25\n- Volatility: 68.23%\n\nRecent Price History (last 10 days):\n  2024-12-31: $403.84 (Vol: 76,825,100)\n  2025-01-02: $379.28 (Vol: 109,710,700)\n  2025-01-03: $410.44 (Vol: 95,423,300)\n  2025-01-06: $411.05 (Vol: 85,516,500)\n  2025-01-07: $394.36 (Vol: 75,699,500)\n  2025-01-08: $394.94 (Vol: 73,038,800)\n  2025-01-10: $394.74 (Vol: 62,287,300)\n  2025-01-13: $403.31 (Vol: 67,580,500)\n  2025-01-14: $396.36 (Vol: 84,565,000)\n  2025-01-15: $428.22 (Vol: 81,375,500)\n\n\nPlease provide:\n1. Your prediction for the next day's price movement (as a percentage)\n2. Your confidence level in this prediction (as a percentage)\n3. Brief reasoning for your prediction\n\nFormat your response clearly and concisely.\n",
+      "timestamp": "2026-03-14T11:43:09.524767"
+    },
+    "NVDA": {
+      "system_prompt": "You are an expert quantitative analyst specializing in stock market analysis. Provide detailed, data-driven insights with clear reasoning.",
+      "user_prompt": "\nBased on the following market data for NVDA, provide a prediction for the next trading day's price movement.\n\n\nStock Symbol: NVDA\nCurrent Price: $136.20\nPrice Change (1d): 3.40%\nVolume: 185,217,300 (Avg: 205,038,453)\nPrice Trend (5d): -2.78%\nPrice Trend (20d): 1.48%\n\nTechnical Indicators:\n- RSI: 46.17\n- MACD: -0.5619\n- MA 20: $136.70\n- MA 50: $139.58\n- Volatility: 40.95%\n\nRecent Price History (last 10 days):\n  2024-12-31: $134.25 (Vol: 155,659,200)\n  2025-01-02: $138.26 (Vol: 198,247,200)\n  2025-01-03: $144.42 (Vol: 229,322,500)\n  2025-01-06: $149.38 (Vol: 265,377,400)\n  2025-01-07: $140.09 (Vol: 351,782,200)\n  2025-01-08: $140.06 (Vol: 227,349,900)\n  2025-01-10: $135.87 (Vol: 207,602,500)\n  2025-01-13: $133.19 (Vol: 204,808,900)\n  2025-01-14: $131.72 (Vol: 195,590,500)\n  2025-01-15: $136.20 (Vol: 185,217,300)\n\n\nPlease provide:\n1. Your prediction for the next day's price movement (as a percentage)\n2. Your confidence level in this prediction (as a percentage)\n3. Brief reasoning for your prediction\n\nFormat your response clearly and concisely.\n",
+      "timestamp": "2026-03-14T11:43:23.102459"
+    }
+  },
+  "response_details": {
+    "AAPL": {
+      "response": "### AAPL Next-Day Price Movement Prediction  \n\n1. **Prediction**: +1.2% to +2.5% (target range: ~$239.35 - $242.45)  \n2. **Confidence Level**: 70%  \n3. **Reasoning**:  \n\n#### Key Supporting Factors:  \n- **Oversold RSI (27.31)**: The RSI is deeply oversold (<30), historically signaling a near-term bounce. AAPL has rebounded 1.5–3% within 1–3 days after similar RSI levels in the past 6 months.  \n- **Positive Divergence**: Today’s +1.97% gain on lower-than-average volume suggests short-term capitulation may be ending, with buyers stepping in.  \n- **MACD Convergence**: While MACD remains negative (-1.5712), its histogram shows slowing downward momentum, often preceding reversals.  \n- **Proximity to MA50 ($237.71)**: The current price ($236.58) is just below the 50-day MA, a key support/resistance level. A break above this could trigger algorithmic buying.  \n\n#### Risks/Counterpoints:  \n- **Downtrend Persistence**: The 20-day MA ($246.01) is still declining, and the stock is down -4.13% over 20 days, indicating broader bearish pressure.  \n- **Below-Avg Volume**: Today’s volume was 14% below average, raising questions about sustainability of the rebound.  \n\n#### Conclusion:  \nExpect a continuation of today’s rebound (+1.2–2.5%) due to oversold conditions and technical reversals, but monitor volume for confirmation. A failure to hold gains above the MA50 could invalidate this outlook.  \n\n---  \n*Note: This prediction assumes no major market-moving news overnight. Confidence drops to 50% if macro volatility (e.g., Fed comments) escalates.*",
+      "full_response": {
+        "id": "gen-1773468733-eDzLRBPCsD4QgxAShm7q",
+        "object": "chat.completion",
+        "created": 1773468733,
+        "model": "deepseek/deepseek-chat-v3-0324",
+        "provider": "AtlasCloud",
+        "system_fingerprint": null,
+        "choices": [
+          {
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop",
+            "native_finish_reason": "stop",
+            "message": {
+              "role": "assistant",
+              "content": "### AAPL Next-Day Price Movement Prediction  \n\n1. **Prediction**: +1.2% to +2.5% (target range: ~$239.35 - $242.45)  \n2. **Confidence Level**: 70%  \n3. **Reasoning**:  \n\n#### Key Supporting Factors:  \n- **Oversold RSI (27.31)**: The RSI is deeply oversold (<30), historically signaling a near-term bounce. AAPL has rebounded 1.5–3% within 1–3 days after similar RSI levels in the past 6 months.  \n- **Positive Divergence**: Today’s +1.97% gain on lower-than-average volume suggests short-term capitulation may be ending, with buyers stepping in.  \n- **MACD Convergence**: While MACD remains negative (-1.5712), its histogram shows slowing downward momentum, often preceding reversals.  \n- **Proximity to MA50 ($237.71)**: The current price ($236.58) is just below the 50-day MA, a key support/resistance level. A break above this could trigger algorithmic buying.  \n\n#### Risks/Counterpoints:  \n- **Downtrend Persistence**: The 20-day MA ($246.01) is still declining, and the stock is down -4.13% over 20 days, indicating broader bearish pressure.  \n- **Below-Avg Volume**: Today’s volume was 14% below average, raising questions about sustainability of the rebound.  \n\n#### Conclusion:  \nExpect a continuation of today’s rebound (+1.2–2.5%) due to oversold conditions and technical reversals, but monitor volume for confirmation. A failure to hold gains above the MA50 could invalidate this outlook.  \n\n---  \n*Note: This prediction assumes no major market-moving news overnight. Confidence drops to 50% if macro volatility (e.g., Fed comments) escalates.*",
+              "refusal": null,
+              "reasoning": null
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 443,
+          "completion_tokens": 407,
+          "total_tokens": 850,
+          "cost": 0.000453848,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.000453848,
+            "upstream_inference_prompt_cost": 9.5688e-05,
+            "upstream_inference_completions_cost": 0.00035816
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "timestamp": "2026-03-14T11:42:22.033692"
+    },
+    "MSFT": {
+      "response": "### Prediction for MSFT Next Trading Day (2025-01-16)\n\n1. **Predicted Price Movement**: **+0.75% to +1.25%** (target range: ~$425.40 to $427.50)  \n2. **Confidence Level**: **65%**  \n3. **Reasoning**:  \n\n#### Supporting Factors:  \n- **Recent Momentum**: Today's price gain (+2.56%) on above-average volume suggests bullish momentum, potentially reversing the 20-day downtrend (-4.69%).  \n- **Technical Indicators**:  \n  - **RSI (42.71)**: Neutral but rising from oversold territory, indicating room for upward movement.  \n  - **MACD (-3.4892)**: Still negative but may be nearing a bullish crossover if momentum continues.  \n  - **Price vs. MA 50 ($423.69)**: Current price ($422.22) is just below the 50-day MA, a break above could trigger further buying.  \n- **Volume**: Today’s volume (19.6M) is close to the average (20M), supporting the price move’s validity.  \n\n#### Risks/Counterpoints:  \n- **20-Day Trend**: The broader trend remains negative (-4.69%), and the 20-day MA ($425.95) could act as resistance.  \n- **Volatility (19.67%)**: High volatility may lead to sharp reversals.  \n\n#### Conclusion:  \nThe combination of today’s strong performance, neutral RSI, and proximity to key moving averages suggests a likely continuation of the rebound, though resistance near $426-$427 may cap gains. Confidence is tempered by the broader downtrend and volatility.  \n\n**Final Note**: Monitor pre-market volume and macroeconomic catalysts (e.g., earnings whispers, Fed comments) for confirmation.",
+      "full_response": {
+        "id": "gen-1773468747-xcTdFf73KTXj2fXZDtTj",
+        "object": "chat.completion",
+        "created": 1773468747,
+        "model": "deepseek/deepseek-chat-v3-0324",
+        "provider": "Novita",
+        "system_fingerprint": null,
+        "choices": [
+          {
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop",
+            "native_finish_reason": "stop",
+            "message": {
+              "role": "assistant",
+              "content": "### Prediction for MSFT Next Trading Day (2025-01-16)\n\n1. **Predicted Price Movement**: **+0.75% to +1.25%** (target range: ~$425.40 to $427.50)  \n2. **Confidence Level**: **65%**  \n3. **Reasoning**:  \n\n#### Supporting Factors:  \n- **Recent Momentum**: Today's price gain (+2.56%) on above-average volume suggests bullish momentum, potentially reversing the 20-day downtrend (-4.69%).  \n- **Technical Indicators**:  \n  - **RSI (42.71)**: Neutral but rising from oversold territory, indicating room for upward movement.  \n  - **MACD (-3.4892)**: Still negative but may be nearing a bullish crossover if momentum continues.  \n  - **Price vs. MA 50 ($423.69)**: Current price ($422.22) is just below the 50-day MA, a break above could trigger further buying.  \n- **Volume**: Today’s volume (19.6M) is close to the average (20M), supporting the price move’s validity.  \n\n#### Risks/Counterpoints:  \n- **20-Day Trend**: The broader trend remains negative (-4.69%), and the 20-day MA ($425.95) could act as resistance.  \n- **Volatility (19.67%)**: High volatility may lead to sharp reversals.  \n\n#### Conclusion:  \nThe combination of today’s strong performance, neutral RSI, and proximity to key moving averages suggests a likely continuation of the rebound, though resistance near $426-$427 may cap gains. Confidence is tempered by the broader downtrend and volatility.  \n\n**Final Note**: Monitor pre-market volume and macroeconomic catalysts (e.g., earnings whispers, Fed comments) for confirmation.",
+              "refusal": null,
+              "reasoning": null
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 442,
+          "completion_tokens": 381,
+          "total_tokens": 823,
+          "cost": 0.00054606,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00054606,
+            "upstream_inference_prompt_cost": 0.00011934,
+            "upstream_inference_completions_cost": 0.00042672
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "timestamp": "2026-03-14T11:42:37.866304"
+    },
+    "GOOGL": {
+      "response": "### Prediction for GOOGL Next Trading Day (2025-01-16)  \n\n1. **Predicted Price Movement**: +0.8% to +1.5% (target range: ~$196.20–$197.57)  \n2. **Confidence Level**: 65%  \n3. **Reasoning**:  \n\n   - **Technical Indicators**:  \n     - **RSI (51.59)**: Neutral, no overbought/oversold signal.  \n     - **MACD (3.0386)**: Positive momentum, though not strongly diverging.  \n     - **Price vs. MAs**: Current price ($194.65) is above both 20-day MA ($191.90) and 50-day MA ($181.65), indicating bullish support.  \n   - **Volume & Trend**:  \n     - Today’s volume (21.8M) was below average (28.4M), but the +3.11% price jump suggests strong buying interest.  \n     - 20-day trend (+3.02%) is positive, and the 5-day trend (+0.03%) shows recent consolidation breaking upward.  \n   - **Volatility (32.73%)**: High volatility supports potential for continued movement, likely upward given the breakout above recent resistance (~$194).  \n   - **Recent Action**: After a dip to $188.79 (2025-01-14), today’s rally reclaimed the 20-day MA, signaling potential continuation.  \n\n**Key Risk**: If volume doesn’t confirm tomorrow, the move could stall. Watch for resistance near $196 (prior high on 2025-01-06).  \n\n**Conclusion**: Moderately confident in a follow-through rally, but high volatility warrants caution.",
+      "full_response": {
+        "id": "gen-1773468763-ghBB5QkGALNHIcjtzWCc",
+        "object": "chat.completion",
+        "created": 1773468763,
+        "model": "deepseek/deepseek-chat-v3-0324",
+        "provider": "DeepInfra",
+        "system_fingerprint": null,
+        "choices": [
+          {
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop",
+            "native_finish_reason": "stop",
+            "message": {
+              "role": "assistant",
+              "content": "### Prediction for GOOGL Next Trading Day (2025-01-16)  \n\n1. **Predicted Price Movement**: +0.8% to +1.5% (target range: ~$196.20–$197.57)  \n2. **Confidence Level**: 65%  \n3. **Reasoning**:  \n\n   - **Technical Indicators**:  \n     - **RSI (51.59)**: Neutral, no overbought/oversold signal.  \n     - **MACD (3.0386)**: Positive momentum, though not strongly diverging.  \n     - **Price vs. MAs**: Current price ($194.65) is above both 20-day MA ($191.90) and 50-day MA ($181.65), indicating bullish support.  \n   - **Volume & Trend**:  \n     - Today’s volume (21.8M) was below average (28.4M), but the +3.11% price jump suggests strong buying interest.  \n     - 20-day trend (+3.02%) is positive, and the 5-day trend (+0.03%) shows recent consolidation breaking upward.  \n   - **Volatility (32.73%)**: High volatility supports potential for continued movement, likely upward given the breakout above recent resistance (~$194).  \n   - **Recent Action**: After a dip to $188.79 (2025-01-14), today’s rally reclaimed the 20-day MA, signaling potential continuation.  \n\n**Key Risk**: If volume doesn’t confirm tomorrow, the move could stall. Watch for resistance near $196 (prior high on 2025-01-06).  \n\n**Conclusion**: Moderately confident in a follow-through rally, but high volatility warrants caution.",
+              "refusal": null,
+              "reasoning": null
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 443,
+          "completion_tokens": 367,
+          "total_tokens": 810,
+          "cost": 0.00036703,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 64,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00036703,
+            "upstream_inference_prompt_cost": 8.444e-05,
+            "upstream_inference_completions_cost": 0.00028259
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "timestamp": "2026-03-14T11:42:58.333371"
+    },
+    "TSLA": {
+      "response": "### TSLA Next Trading Day Prediction  \n\n1. **Prediction for Next Day's Price Movement**: **+1.2% to +2.5%** (target range: ~$433–$439)  \n2. **Confidence Level**: **65%**  \n3. **Reasoning**:  \n\n#### Key Factors Supporting a Bullish Outlook:  \n- **Strong Momentum**: TSLA surged **8.04%** on the latest trading day, breaking above the 20-day MA ($422.64) and nearing the 50-day MA ($374.25), suggesting bullish momentum.  \n- **RSI Neutral but Rising**: The RSI (49.44) is mid-range, leaving room for further upside before overbought conditions (RSI > 70).  \n- **MACD Bullish Signal**: The MACD (6.7038) is positive and likely widening, indicating strengthening upward momentum.  \n- **Volume Confirmation**: While volume (81.4M) was slightly below average (87.9M), the price spike on higher-than-recent volume (e.g., vs. 62M on 2025-01-10) supports validity.  \n- **Volatility**: High volatility (68.23%) suggests large swings, but the 5-day trend (+8.59%) favors continuation.  \n\n#### Caveats Limiting Confidence:  \n- **Resistance Levels**: The stock may face resistance near the 50-day MA or psychological levels (e.g., $440).  \n- **Profit-Taking Risk**: After a sharp 1-day gain, short-term traders may lock in profits, causing a pullback.  \n\n#### Conclusion:  \nThe technical setup leans bullish, but the high volatility and potential resistance justify moderate confidence (65%). Expect a **moderate rise** (~1.2–2.5%) with possible intraday volatility.",
+      "full_response": {
+        "id": "gen-1773468783-UyHMkQ4xBfakizR1UG3N",
+        "object": "chat.completion",
+        "created": 1773468783,
+        "model": "deepseek/deepseek-chat-v3-0324",
+        "provider": "ModelRun",
+        "system_fingerprint": null,
+        "choices": [
+          {
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop",
+            "native_finish_reason": "stop",
+            "message": {
+              "role": "assistant",
+              "content": "### TSLA Next Trading Day Prediction  \n\n1. **Prediction for Next Day's Price Movement**: **+1.2% to +2.5%** (target range: ~$433–$439)  \n2. **Confidence Level**: **65%**  \n3. **Reasoning**:  \n\n#### Key Factors Supporting a Bullish Outlook:  \n- **Strong Momentum**: TSLA surged **8.04%** on the latest trading day, breaking above the 20-day MA ($422.64) and nearing the 50-day MA ($374.25), suggesting bullish momentum.  \n- **RSI Neutral but Rising**: The RSI (49.44) is mid-range, leaving room for further upside before overbought conditions (RSI > 70).  \n- **MACD Bullish Signal**: The MACD (6.7038) is positive and likely widening, indicating strengthening upward momentum.  \n- **Volume Confirmation**: While volume (81.4M) was slightly below average (87.9M), the price spike on higher-than-recent volume (e.g., vs. 62M on 2025-01-10) supports validity.  \n- **Volatility**: High volatility (68.23%) suggests large swings, but the 5-day trend (+8.59%) favors continuation.  \n\n#### Caveats Limiting Confidence:  \n- **Resistance Levels**: The stock may face resistance near the 50-day MA or psychological levels (e.g., $440).  \n- **Profit-Taking Risk**: After a sharp 1-day gain, short-term traders may lock in profits, causing a pullback.  \n\n#### Conclusion:  \nThe technical setup leans bullish, but the high volatility and potential resistance justify moderate confidence (65%). Expect a **moderate rise** (~1.2–2.5%) with possible intraday volatility.",
+              "refusal": null,
+              "reasoning": null
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 442,
+          "completion_tokens": 387,
+          "total_tokens": 829,
+          "cost": 0.00040649,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 5,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00040649,
+            "upstream_inference_prompt_cost": 9.689e-05,
+            "upstream_inference_completions_cost": 0.0003096
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "timestamp": "2026-03-14T11:43:09.524767"
+    },
+    "NVDA": {
+      "response": "### NVDA Next-Day Price Prediction  \n\n1. **Predicted Price Movement**: +1.2% to $137.83  \n2. **Confidence Level**: 65%  \n3. **Reasoning**:  \n\n**Technical Factors**:  \n- **RSI (46.17)**: Neutral (neither overbought nor oversold), suggesting room for upward momentum.  \n- **MACD (-0.5619)**: Still negative but converging, hinting at potential bullish reversal.  \n- **Price vs. MAs**: Current price ($136.20) is below the 20-day MA ($136.70) but showing recovery from recent lows. A breakout above the 20-day MA could trigger short-term buying.  \n- **Volatility (40.95%)**: High volatility supports larger swings, but recent consolidation near $131–$136 suggests a base forming.  \n\n**Volume & Trend Analysis**:  \n- Today’s volume (185M) was below average (205M), indicating weaker selling pressure after the +3.4% rebound.  \n- The 5-day trend (-2.78%) reversed today, and the stock reclaimed the $135 support level. This could attract dip-buyers.  \n\n**Near-Term Resistance/Support**:  \n- Immediate resistance: $137.50 (prior swing high on 01-10).  \n- Support: $134.25 (12-31 low).  \n\n**Catalysts**:  \n- No major earnings/news expected, but NVDA often moves with semiconductor sector sentiment. Recent rebound suggests bear exhaustion.  \n\n**Risks**:  \n- MACD remains negative, and the 50-day MA ($139.58) is overhead. Failure to hold $136 could lead to retest of $134.  \n\n**Conclusion**: Moderately bullish bias (+1.2%) with 65% confidence, contingent on holding above $136 and sector stability. A break below $134 would invalidate the thesis.",
+      "full_response": {
+        "id": "gen-1773468795-8GQO3wqzhorh2LVrCLwe",
+        "object": "chat.completion",
+        "created": 1773468795,
+        "model": "deepseek/deepseek-chat-v3-0324",
+        "provider": "AtlasCloud",
+        "system_fingerprint": null,
+        "choices": [
+          {
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop",
+            "native_finish_reason": "stop",
+            "message": {
+              "role": "assistant",
+              "content": "### NVDA Next-Day Price Prediction  \n\n1. **Predicted Price Movement**: +1.2% to $137.83  \n2. **Confidence Level**: 65%  \n3. **Reasoning**:  \n\n**Technical Factors**:  \n- **RSI (46.17)**: Neutral (neither overbought nor oversold), suggesting room for upward momentum.  \n- **MACD (-0.5619)**: Still negative but converging, hinting at potential bullish reversal.  \n- **Price vs. MAs**: Current price ($136.20) is below the 20-day MA ($136.70) but showing recovery from recent lows. A breakout above the 20-day MA could trigger short-term buying.  \n- **Volatility (40.95%)**: High volatility supports larger swings, but recent consolidation near $131–$136 suggests a base forming.  \n\n**Volume & Trend Analysis**:  \n- Today’s volume (185M) was below average (205M), indicating weaker selling pressure after the +3.4% rebound.  \n- The 5-day trend (-2.78%) reversed today, and the stock reclaimed the $135 support level. This could attract dip-buyers.  \n\n**Near-Term Resistance/Support**:  \n- Immediate resistance: $137.50 (prior swing high on 01-10).  \n- Support: $134.25 (12-31 low).  \n\n**Catalysts**:  \n- No major earnings/news expected, but NVDA often moves with semiconductor sector sentiment. Recent rebound suggests bear exhaustion.  \n\n**Risks**:  \n- MACD remains negative, and the 50-day MA ($139.58) is overhead. Failure to hold $136 could lead to retest of $134.  \n\n**Conclusion**: Moderately bullish bias (+1.2%) with 65% confidence, contingent on holding above $136 and sector stability. A break below $134 would invalidate the thesis.",
+              "refusal": null,
+              "reasoning": null
+            }
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 443,
+          "completion_tokens": 403,
+          "total_tokens": 846,
+          "cost": 0.000450328,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.000450328,
+            "upstream_inference_prompt_cost": 9.5688e-05,
+            "upstream_inference_completions_cost": 0.00035464
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      },
+      "timestamp": "2026-03-14T11:43:23.102459"
+    }
+  }
+}
